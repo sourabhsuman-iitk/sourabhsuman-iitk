@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m Sourabh Suman
 - I am a Chemical Engineering undergrad at IIT Kanpur currently in my senior year. 
-- I am passionate about coding, learning and innovating. 
+- Passionate about coding, learning, innovating and staying fit. 
 - You can either find me curiously looking at the latest tech or developing something awesome for the web.
 - 📫 Reach me at sourabhsuman.xyz/#contact
 
