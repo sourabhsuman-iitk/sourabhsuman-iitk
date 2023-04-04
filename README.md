@@ -2,7 +2,6 @@
 - I am a Chemical Engineering undergrad at IIT Kanpur currently in my senior year. 
 - Passionate about coding, learning, innovating and staying fit. 
 - You can either find me curiously looking at the latest tech or developing something awesome for the web.
-- 📫 Reach me at sourabhsuman.xyz/#contact
 
 <!---
 sourabhsuman-iitk/sourabhsuman-iitk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
